@@ -2,11 +2,16 @@
 
 目錄：
 
+- [Python 學習](#Pytho學習)
 - [遠程連接伺服器](#遠程連接伺服器)
 - [後端筆記](#後端筆記)
 - [關聯式資料庫：SQL 系列](#關聯式資料庫：SQL系列)
 
 - [](#)
+
+## <a name="Python學習"></a>Python 學習
+
+- [File I/O in Python](https://gist.github.com/hsilan-sui/451aee683689345db719146c3bba01fa)
 
 ## <a name="遠程連接伺服器"></a>遠程連接伺服器
 
